@@ -5,7 +5,7 @@
 
 Notre catalogue présente **16 produits et déclinaisons**, organisés autour de deux lignes technologiques : **Elyne**, pour les applications et la sécurité des systèmes d'IA, et **TrustID**, pour la confiance dans les identités et les postes. [EIE](https://github.com/deharoalexandre-cyber/EIE) est notre moteur d'inférence local publié en open source. Les fiches commerciales ne désignent pas seize codes indépendants.
 
-**Dépôts documentaires propriétaires : consultation publique, sans autorisation de réemploi.** Parmi les produits du tableau, EIE reste l'exception open source ; les droits de chaque dépôt sont précisés dans sa notice.
+**Dépôts documentaires propriétaires : consultation publique, sans autorisation de réemploi.** Parmi les produits du tableau, EIE reste l'exception open source ; les droits de chaque dépôt sont précisés dans sa notice et ceux de cette carte dans la [notice du profil](NOTICE.md).
 
 ## Carte des produits
 

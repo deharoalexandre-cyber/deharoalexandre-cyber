@@ -5,7 +5,7 @@
 
 Our catalog presents **16 products and variants** organized around two technology lines: **Elyne**, for AI applications and agentic security, and **TrustID**, for workstation and identity trust. [EIE](https://github.com/deharoalexandre-cyber/EIE) is our open-source local inference engine. The sixteen catalog cards do not represent sixteen unrelated codebases.
 
-**Proprietary documentation repositories: public viewing, no reuse license.** Among the products in the table, EIE remains the open-source exception; each repository's notice states its terms.
+**Proprietary documentation repositories: public viewing, no reuse license.** Among the products in the table, EIE remains the open-source exception; each repository's notice states its terms, and the [profile notice](NOTICE.md) covers this product map.
 
 ## Product map
 
