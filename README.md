@@ -9,7 +9,7 @@ Notre catalogue présente **16 produits et déclinaisons**, organisés autour de
 
 ## Carte des produits
 
-Les statuts ci-dessous reprennent le [catalogue public](https://elynecorp.fr/) consulté le 24 octobre 2026. Un statut commercial ne constitue pas à lui seul une qualification technique ; chaque dépôt précise ses observations et ses limites.
+Les statuts ci-dessous sont ceux affichés dans le [catalogue Elyne Corp](https://elynecorp.fr/) au 24 octobre 2026. Un statut commercial ne constitue pas à lui seul une qualification technique ; chaque dépôt précise ses observations et ses limites.
 
 | Ligne | Produit ou déclinaison | Statut du catalogue | Dépôt |
 | --- | --- | --- | --- |

@@ -9,7 +9,7 @@ Our catalog presents **16 products and variants** organized around two technolog
 
 ## Product map
 
-The statuses below reflect the [public catalog](https://elynecorp.com/) as viewed on 24 October 2026. A commercial status is not, by itself, a technical qualification; each repository states its observations and limits.
+The statuses below are those displayed in the [Elyne Corp catalog](https://elynecorp.com/) on 24 October 2026. A commercial status is not, by itself, a technical qualification; each repository states its observations and limits.
 
 | Line | Product or variant | Catalog status | Repository |
 | --- | --- | --- | --- |
